@@ -1,14 +1,5 @@
 # Real-Time Home Monitoring System with YOLO Object Detection
 
-## Team Members
-
-| Role | Name | Device |
-|------|------|--------|
-| Sender (Laptop A) | [Edit: Your Name] | Streams webcam video via Flask |
-| Receiver (Laptop B) | [Edit: Partner's Name] | Runs YOLO detection on stream |
-
----
-
 ## Project Overview
 
 This project implements a real-time home monitoring pipeline across two laptops on the same WiFi network.
