@@ -1,4 +1,4 @@
-# 🏠 Real-Time Home Monitoring System with YOLO Object Detection
+# Real-Time Home Monitoring System with YOLO Object Detection
 
 ## Team Members
 
